@@ -1,0 +1,10 @@
+Odpowiedzi na pytania:
+1.Tryb ECB - podatny na atatki powtórzeñ.
+   Tryb CBC - jezeli znany IV, malo odporny na atak z wybranym tekstem jawnym, 
+   Tryb PCBC,CFB,OFB - zbli¿one do CBC, mo¿na wykazaæ, ¿e jest bezpieczniejszy od CBC.
+   CTR - bezpieczniejszy od powy¿szych, klucz nalezy zmienic po 2^64 bloków wiadomosci.
+2. Przyczyn¹ braku wspierania, mo¿e byæ skoncentrowanie siê na rozwoju wybranych metod, tak aby ograniczyæ ryzyko wyst¹pienia jakichkolwiek luk.
+3. Zwi¹zane jest to z ustawnowieniem ograniczenia d³ugoœci klucza przez pewne kraje
+4. zapamiêtanie zawsze najlepsza metoda :), zaszyfrowanie dokumentu z has³em 
+
+6. Ciê¿ko jest spe³niæ wszystkie wymogi równoczeœnie dlatego moim zdaniem jest to nie mo¿liwe
