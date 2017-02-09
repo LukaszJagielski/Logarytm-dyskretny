@@ -1,0 +1,1 @@
+Wybra³em tak naprawdê 1024 bajtowy rozmiar klucza, ze wzglêdu na to, i¿ przy wiêkszym rozmiarze na moim sprzêcie generowa³ siê on bardzo powoli na pewno nie generuje on super poziomu bezpieczeñstwa, w takim wypadku trzeba podnieœæ ten rozmiar
